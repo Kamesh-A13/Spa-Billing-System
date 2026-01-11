@@ -281,17 +281,7 @@ Monitor key metrics at a glance:
 
 ---
 
-## 📸 Screenshots
 
-| Home Page | Admin Dashboard |
-|-----------|-----------------|
-| ![Home](https://via.placeholder.com/400x300?text=Home+Page) | ![Dashboard](https://via.placeholder.com/400x300?text=Dashboard) |
-
-| Invoice Creation | Booking Form |
-|------------------|--------------|
-| ![Invoice](https://via.placeholder.com/400x300?text=Create+Invoice) | ![Booking](https://via.placeholder.com/400x300?text=Booking+Form) |
-
----
 
 ## 🤝 Contributing
 
@@ -319,14 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
 
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -343,4 +326,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Made with ❤️ for spa businesses everywhere
 
 </div>
+
 
