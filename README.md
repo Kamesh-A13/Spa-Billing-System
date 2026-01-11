@@ -199,7 +199,7 @@ erDiagram
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/spa-billing-system.git
+   git clone https://github.com/Kamesh-A13/Spa-Billing-System.git
    cd spa-billing-system
    ```
 
@@ -343,3 +343,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 Made with ❤️ for spa businesses everywhere
 
 </div>
+
